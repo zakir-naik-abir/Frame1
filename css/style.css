@@ -1,0 +1,65 @@
+/* 
+Template Name:
+Template URL:
+Description: 
+Author: Zakir Naik
+Author URL: 
+Version: 
+*/
+/* Google Font Import - Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    transition: all .3s ease-in-out;
+}
+a:hover{
+    background: blueviolet;
+}
+/* ===============header-start=============== */
+header{
+    background-image: url('../images/banner/banner1.png');
+}
+/* ===============header-end=============== */
+
+/* ===============-start=============== */
+/* ===============-end=============== */
+
+/* ===============-start=============== */
+/* ===============-end=============== */
+
+/* ===============-start=============== */
+/* ===============-end=============== */
+
+/* ===============-start=============== */
+/* ===============-end=============== */
+
+/* ===============-start=============== */
+/* ===============-end=============== */
+
+/* ===============-start=============== */
+/* ===============-end=============== */
+
+/* ===============-start=============== */
+/* ===============-end=============== */
+
+/* ===============-start=============== */
+/* ===============-end=============== */
+
+/* ===============-start=============== */
+/* ===============-end=============== */
